@@ -70,6 +70,22 @@ const Booklist2 = () => {
         </div>
     </>
 }
+const Book3 = () =>{
+    return (
+        <div>
+            {bookData.map((book)=>{return  <BookDetails book={book} />})}
+        </div>
+    )
+}
 
+
+
+const Booklist3 = () => {
+    return <>
+        <div className="booklist">
+           <Book3 />
+        </div>
+    </>
+}
 //Booklist1 and Booklist2 should be looking ideally same
-ReactDOM.createRoot(document.getElementById("root")).render(<Booklist2 />);
+ReactDOM.createRoot(document.getElementById("root")).render(<Booklist3 />);

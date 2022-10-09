@@ -1,0 +1,31 @@
+.book{
+     
+  display: flex;
+  flex-direction: row;
+   
+}
+
+.book-bg{
+  margin: 30px;
+  background-color:#f8f8f8;
+}
+
+.booklist{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.bookdetails{
+  line-height: 2;
+  margin: 50px;
+}
+.bookDetails_name{
+  
+  font-size: 24px!important;
+  line-height: 24px!important;
+}
+
+.bookDetails_name:hover{
+  color:orange;
+}

@@ -1,0 +1,62 @@
+[
+    {
+        "name":"My Dad's Daughter: A Gift to My Hero in Heaven",
+        "img":"https://m.media-amazon.com/images/I/61BiHzMV8KL._AC_UY436_FMwebp_QL65_.jpg",
+        "author":"Divya Gupta Kotawala",
+        "published":"20 April 2022",
+        "delivery":"October 12 2022",
+        "price":"$ 262",
+        "type":"Paperback",
+        "sponsorship":true
+    },
+    {
+        "name":"Ananda : Happiness Without Reason",
+        "img":"https://m.media-amazon.com/images/I/81q1AIIjedL._AC_UY436_FMwebp_QL65_.jpg",
+        "author":"Acharya Prashant",
+        "published":"27 June 2022",
+        "delivery":"October 9 2022",
+        "price":"$ 259",
+        "type":"Paperback",
+        "sponsorship":true
+    },
+    {
+        "name":"Ikigai: The Japanese secret to a long and happy life",
+        "img":"https://m.media-amazon.com/images/I/814L+vq01mL._AC_UY436_FMwebp_QL65_.jpg",
+        "author":"Héctor García and Francesc Mirallesa",
+        "published":"27 September 2017",
+        "delivery":"October 9 2022",
+        "price":"$ 257",
+        "type":"Hardcover",
+        "sponsorship":false
+    }, {
+        "name":"The Monk Who Sold His Ferrari: A Fable About Fulfilling Your Dreams and Reaching Your Destiny",
+        "img":"https://m.media-amazon.com/images/I/61Iz2yy2CKL._AC_UY436_FMwebp_QL65_.jpg",
+        "author":" Robin Sharma ",
+        "published":"25 September 2003",
+        "delivery":"October 9 2022",
+        "price":"$ 152",
+        "type":"Paperback",
+        "sponsorship":false
+    },
+    {
+        "name":"The Prophet",
+        "img":"https://m.media-amazon.com/images/I/91yjbqL1V2S._AC_UY436_FMwebp_QL65_.jpg",
+        "author":" Kahlil Gibran",
+        "published":"7 May 2017",
+        "delivery":"October 9 2022",
+        "price":"$ 79",
+        "type":"Paperback",
+        "sponsorship":false
+    },
+    {
+        "name":"The Richest Man in Babylon",
+        "img":"https://m.media-amazon.com/images/I/81NYuWzsJcS._AC_UY436_FMwebp_QL65_.jpg",
+        "author":"George S. Clason",
+        "published":"1 August 2018",
+        "delivery":"October 9 2022",
+        "price":"$ 150",
+        "type":"Paperback",
+        "sponsorship":false
+    }
+
+]
